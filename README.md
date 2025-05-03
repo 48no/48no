@@ -52,13 +52,6 @@
 
 ---
 
-## 🚀 Featured Projects
-- [**Discord Adventure Bot**](https://github.com/48no/discord-adventure-bot) — Interactive story game with XP, achievements, and multilingual support.
-- [**School Management System**](https://github.com/48no/school-management) — Secure real-time system for students and teachers.
-- [**Event ID Generator Site**](https://github.com/48no/event-card-site) — Generates stylish member cards with webhook integration.
-
----
-
 > **"Code like a hacker. Design like an artist. Ship like a pro."**
 
 ---
