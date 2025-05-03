@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://imgur.com/a/CXxIGP3" width="200" alt="logo"/>
+  <img src="https://cdn.discordapp.com/attachments/1342634895855456286/1368291436440850504/IMG_3495.jpg?ex=6817b034&is=68165eb4&hm=f9afb5b553e77dd59ab4b94faa2a7cc9800dbeb9bdb92f5325fa4014ff62f9f4" width="200" alt="logo"/>
 </p>
 
 <h1 align="center">Welcome to my GitHub Profile!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=380&height=50&lines=I+Am+Developer ; I+Am+Desginer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=380&height=50&lines=I+Am+Developer;I+Am+Designer;Game+Creator;Full-Stack+Explorer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -41,3 +41,24 @@
 ## 🎮 Game Development
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=48no&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=48no&theme=tokyonight" alt="streak"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+- [**Discord Adventure Bot**](https://github.com/48no/discord-adventure-bot) — Interactive story game with XP, achievements, and multilingual support.
+- [**School Management System**](https://github.com/48no/school-management) — Secure real-time system for students and teachers.
+- [**Event ID Generator Site**](https://github.com/48no/event-card-site) — Generates stylish member cards with webhook integration.
+
+---
+
+> **"Code like a hacker. Design like an artist. Ship like a pro."**
+
+---
