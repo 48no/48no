@@ -44,11 +44,21 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=48no&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=48no&theme=tokyonight" alt="streak"/>
-</p>
+## 💼 What I Offer | ماذا أقدّم؟
+
+### I specialize in:
+- ✅ Building custom Discord bots (XP systems, music, adventure, moderation)
+- ✅ Developing web applications (React, Node.js, MongoDB)
+- ✅ Creating full-featured game systems (Unity / Unreal)
+- ✅ Designing UI/UX for modern platforms
+- ✅ Hosting and deploying websites (Netlify / Vercel)
+
+### أقدم:
+- بوتات ديسكورد احترافية (مغامرات، نقاط، موسيقى، إدارة)
+- مواقع إلكترونية كاملة (لوحات تحكم، تسجيل دخول، قواعد بيانات)
+- تطوير ألعاب باستخدام Unity أو Unreal
+- تصاميم جذابة لتجارب المستخدم
+- رفع واستضافة المواقع على الإنترنت
 
 ---
 
