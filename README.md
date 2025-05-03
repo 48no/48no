@@ -62,6 +62,14 @@
 
 ---
 
+## 🛠 Favorite Tools
+- **VS Code** for coding
+- **GitHub** for version control
+- **Docker** for containerization
+- **Figma** for UI/UX design
+
+  ---
+
 > **"Code like a hacker. Design like an artist. Ship like a pro."**
 
 ---
