@@ -5,7 +5,7 @@
 <h1 align="center">Welcome to my GitHub Profile!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=380&height=50&lines=أنا+مبرمج;أنا+مصمم" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=380&height=50&lines=I+Am+Developer ; I+Am+Desginer" alt="Typing SVG" />
 </p>
 
 <p align="center">
